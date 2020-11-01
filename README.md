@@ -11,7 +11,7 @@ The textbook is follow.
 
 ```sh
 $ npm install -g create-react-app
-$ create-react-ap my-app
+$ create-react-app my-app
 $ cd my-app
 $ rm -rf src
 $ git clone https://github.com/yskoht/training-react.git src
